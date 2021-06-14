@@ -1,0 +1,10 @@
+//Can you implement the sing() method for the bird? a. How did you unit test it?  b. How did you optimize the code for maintainability? (Ask yourself the same question for all following exercises)
+
+class Bird extends Animal {     
+void fly() {         
+System.out.println("I am flying");     
+} 
+void sing() {         
+System.out.println("I am singing");     
+} 
+} 
